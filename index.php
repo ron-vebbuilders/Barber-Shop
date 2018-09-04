@@ -8,13 +8,13 @@
            <h3>Welcome to Superior</h3>
            <ul>
              <li><b>Store Day</b> <span><b>Store Hours</b></span></li>
-             <li>Monday <span>8AM - 4PM</span></li>
-             <li>Tuesday <span>8AM - 4PM</span></li>
-             <li>Wednesday <span>8AM - 4PM</span></li>
-             <li>Thursday <span>8AM - 4PM</span></li>
-             <li>Friday  <span>8AM - 4PM</span></li>
-             <li>Saturday <span>8AM - 4PM</span></li>
-             <li>Sunday <span>Close</span></li>
+             <li>Monday <span>Closed</span></li>
+             <li>Tuesday <span>10:30 AM - 07:00 PM</span></li>
+             <li>Wednesday <span>10:30 AM - 07:00 PM</span></li>
+             <li>Thursday <span>10:30 AM - 07:00 PM</span></li>
+             <li>Friday  <span>08:00 AM - 07:00 PM</span></li>
+             <li>Saturday <span>08:00 AM - 05:00 PM</span></li>
+             <li>Sunday <span>Closed</span></li>
            </ul>
          </div>
        </div>
@@ -95,7 +95,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-4">
           <div class="product-box">
            <div class="hovereffect">
-            <img class="img-responsive" src="images/product/1.jpg" alt="">
+            <img class="img-responsive" src="images/product/IMG_1213.jpg" alt="">
             <div class="overlay">
              <h2>Style 1</h2>
              <a class="info" href="#">Style 1</a>
@@ -106,7 +106,7 @@
      <div class="col-12 col-sm-6 col-md-4 col-lg-4">
       <div class="product-box">
        <div class="hovereffect">
-        <img class="img-responsive" src="images/product/2.jpg" alt="">
+        <img class="img-responsive" src="images/product/IMG_1214.jpg" alt="">
         <div class="overlay">
          <h2>Style 2</h2>
          <a class="info" href="#">Style 2</a>
@@ -117,7 +117,7 @@
  <div class="col-12 col-sm-6 col-md-4 col-lg-4">
   <div class="product-box">
    <div class="hovereffect">
-    <img class="img-responsive" src="images/product/3.jpg" alt="">
+    <img class="img-responsive" src="images/product/IMG_1215.jpg" alt="">
     <div class="overlay">
      <h2>Style 3</h2>
      <a class="info" href="#">Style 3</a>
@@ -128,7 +128,7 @@
 <div class="col-12 col-sm-6 col-md-4 col-lg-4">
   <div class="product-box">
    <div class="hovereffect">
-    <img class="img-responsive" src="images/product/4.jpg" alt="">
+    <img class="img-responsive" src="images/product/IMG_1216.jpg" alt="">
     <div class="overlay">
      <h2>Style 4</h2>
      <a class="info" href="#">Style 4</a>
@@ -139,7 +139,7 @@
 <div class="col-12 col-sm-6 col-md-4 col-lg-4">
   <div class="product-box">
    <div class="hovereffect">
-    <img class="img-responsive" src="images/product/5.jpg" alt="">
+    <img class="img-responsive" src="images/product/IMG_1217.jpg" alt="">
     <div class="overlay">
      <h2>Style 5</h2>
      <a class="info" href="#">Style 5</a>
@@ -150,7 +150,7 @@
 <div class="col-12 col-sm-6 col-md-4 col-lg-4">
   <div class="product-box">
    <div class="hovereffect">
-    <img class="img-responsive" src="images/product/6.jpg" alt="">
+    <img class="img-responsive" src="images/product/IMG_1218.jpg" alt="">
     <div class="overlay">
      <h2>Style 6</h2>
      <a class="info" href="#">Style 6</a>
@@ -158,6 +158,7 @@
  </div>
 </div>
 </div>
+
 </div>
 </div>
 </div>
