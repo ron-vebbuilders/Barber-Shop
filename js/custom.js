@@ -36,8 +36,9 @@ $(window).scroll(function () {
 });
 
 
-
- var galleryTop = new Swiper('.gallery-top', {
+$(function(){
+ 'use strict';
+var galleryTop = new Swiper('.gallery-top', {
       spaceBetween: 10,
       navigation: {
         nextEl: '.swiper-button-next',
@@ -53,3 +54,5 @@ $(window).scroll(function () {
     });
     galleryTop.controller.control = galleryThumbs;
     galleryThumbs.controller.control = galleryTop;
+});
+ 

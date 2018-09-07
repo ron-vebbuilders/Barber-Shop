@@ -4,7 +4,7 @@
      <div class="col-12 col-sm-12 col-md-6 col-lg-6">
       <h3>Book An Appointment</h3>
     </div>
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 text-right">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 text-md-right text-lg-right">
       <a href="https://booksy.com/en-us/70130_the-superior-barbershop_barber-shop_15438_wallingford" target="_blank">Book Now</a>
     </div>
   </div>

@@ -15,92 +15,56 @@
       </div>
       <div class="container">
         <div class="row">
+
+
           <div class="col-12 col-sm-6 col-md-4 col-lg-4">
             <div class="product-box">
               <div class="img">
-                <a href="product-details">
-                  <img src="images/product/product-1.jpg">
+                <a href="elegance-transparent-pomade">
+                  <img src="images/product/elegance-transparent/1.png">
                 </a>
               </div>
               <div class="product-conwl">
-                <h4>Sharp Shear</h4>
-                <span>$23</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                <h4>Elegance Transparent Pomade</h4>
+                <span>$15</span>
+                <p>Provides a super strong hold, Long lasting shine, No stickiness..</p>
               </div>
             </div>
           </div>
           <div class="col-12 col-sm-6 col-md-4 col-lg-4">
             <div class="product-box">
               <div class="img">
-                <a href="product-details">
-                  <img src="images/product/product-1.jpg">
+                <a href="elegance-triple-action-gel">
+                  <img src="images/product/elegance-triple-action-gel/1.png">
                 </a>
               </div>
               <div class="product-conwl">
-                <h4>Sharp Shear</h4>
-                <span>$23</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                <h4>Elegance Triple Action Gel</h4>
+                <span>$18</span>
+                 <p>Provides a super strong hold, Long lasting shine, Delivers great volume..</p>
               </div>
             </div>
           </div>
           <div class="col-12 col-sm-6 col-md-4 col-lg-4">
             <div class="product-box">
               <div class="img">
-                <a href="product-details">
-                  <img src="images/product/product-1.jpg">
+                <a href="suavecito-pomade">
+                  <img src="images/product/suavecito-pomade/1.png">
                 </a>
               </div>
               <div class="product-conwl">
-                <h4>Sharp Shear</h4>
-                <span>$23</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                <h4>Suavecitop Pomade</h4>
+                <span>$9</span>
+                <p>ORIGINAL HOLD. MEDIUM STRENGTH. Suavecito Original Hold Pomade..</p>
               </div>
             </div>
           </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-4">
-            <div class="product-box">
-              <div class="img">
-                <a href="product-details">
-                  <img src="images/product/product-1.jpg">
-                </a>
-              </div>
-              <div class="product-conwl">
-                <h4>Sharp Shear</h4>
-                <span>$23</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-4">
-            <div class="product-box">
-              <div class="img">
-                <a href="product-details">
-                  <img src="images/product/product-1.jpg">
-                </a>
-              </div>
-              <div class="product-conwl">
-                <h4>Sharp Shear</h4>
-                <span>$23</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-4">
-            <div class="product-box">
-              <div class="img">
-                <a href="product-details">
-                  <img src="images/product/product-1.jpg">
-                </a>
-              </div>
-              <div class="product-conwl">
-                <h4>Sharp Shear</h4>
-                <span>$23</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-              </div>
-            </div>
-          </div>
+         
+
         </div>
-        <div class="text-center">
+
+
+        <!-- <div class="text-center">
           <ul class="pagination justify-content-center">
             <li class="page-item">
               <a class="page-link" href="#" aria-label="Previous">
@@ -118,7 +82,9 @@
               </a>
             </li>
           </ul>
-        </div>
+        </div> -->
+
+
       </div>
     </div>
   </div>

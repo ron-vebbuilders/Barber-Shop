@@ -3,7 +3,7 @@
   <div class="container">
     <div class="banner-cl">
       <div class="row">
-       <div class="col-12 col-sm-10 col-md-6 col-lg-5">
+       <div class="col-12 col-sm-10 col-md-7 col-lg-5">
          <div class="shop-time">
            <h3>Welcome to Superior</h3>
            <ul>
