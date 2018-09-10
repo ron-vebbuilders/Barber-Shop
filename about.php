@@ -46,12 +46,12 @@
 					<div class="row">
 						<div class="col-12 col-sm-12 col-md-6 col-lg-4">
 							<div class="img">
-								<img src="images/about/1.jpg">
+								<img src="images/about/3.png">
 							</div>
 						</div>
 						<div class="col-12 col-sm-12 col-md-6 col-lg-8">
 							<div class="conwl">
-								<h4>Beard Trim</h4>
+								<h4>Joey</h4>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 								tempor incididunt ut labore et dolore magna aliqua</p>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -74,12 +74,12 @@
 					<div class="row">
 						<div class="col-12 col-sm-12 col-md-6 col-lg-4">
 							<div class="img">
-								<img src="images/about/1.jpg">
+								<img src="images/about/4.png">
 							</div>
 						</div>
 						<div class="col-12 col-sm-12 col-md-6 col-lg-8">
 							<div class="conwl">
-								<h4>Beard Trim</h4>
+								<h4>Christian</h4>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 								tempor incididunt ut labore et dolore magna aliqua</p>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
